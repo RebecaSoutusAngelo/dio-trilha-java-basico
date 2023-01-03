@@ -1,0 +1,43 @@
+//Em teoria: um programa é um conjunto de instruções lógicas que, quando executadas, produzem algum resultado.
+//REALIZAR OPERACOES COM A FINALIDADE DE ALGUM RESULTADO.
+
+
+//Classificacoes de operadores
+        //Operador de atribuição
+            //Definir um valor inicial ou alterar o valor.
+
+        //Como atribuir um valor:
+        //String nome = "Rebeca";
+        //double peso = 68.5; //colocar ponto para representar a parte decimal. CONVENÇÃO AMERICANA.
+        //char sexo = 'M';
+        //boolean doadorOrgao = false;
+        //Date dataNascimento = new Date();
+
+
+        //Operadores aritméticos
+        //Utilizados para expressões matemáticas.
+
+        //+(adição) -(subtração) *(multiplicação) /(divisão)
+
+        //double soma = 10.5 + 15.7;
+        //int subtração = 113 - 25;
+        //int multiplicação = 20 * 7;
+        //int divisão = 20/3;
+        //int modulo = 18 % 3;
+        //double resultado = (10 * 7) + (20 /4);
+
+//O operador de adição (+) pode ser utlizado para a CONCATENAÇÃO DE TEXTOS.
+    //Exemplo:
+    //String nomeCompleto = "LINGUAGEM + JAVA";
+
+//System.out.printIn(nomeCompleto);
+
+//Nomes e números:
+    //Acompanhar exemplos no material.
+        //Princípio Básico: O quanto antes o sistema capta um caracter, ele realiza a concatenação.
+        //Se as somas estão separadas por evidencias, ex: "1"+(1+1+1), ele vai unir a soma à concantenação.
+            //Neste caso, o resultado é igual a 13.
+
+
+            
+

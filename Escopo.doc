@@ -1,0 +1,8 @@
+O ambiente onde uma variável pode ser acessada. Em Java, o escopo de variáveis vai de acordo com o bloco onde ela foi declarada.
+
+A variável deixar de estar disponível dependendo de onde está está localizada no projeto.
+
+Caso você declare uma variável DENTRO DE UM MÉTODO, o escopo dessa variável está limitado apenas ao corpo desse método, ou seja, dentro das chaves que limitam o método.
+
+Onde declara a variável afeta a visibilidade do código.
+

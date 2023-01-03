@@ -1,0 +1,37 @@
+package JavaDoc;
+
+public class JavaDoc {
+    //Documentação Oficial
+        //compreender explorar todos os recursos organizados por pacotes e classes bem específicas sem nem mesmo escrever uma linha de código.
+        //compreender a documentação oficial de linguagem e dos frameworks são incorporados nos documentos atuais.
+
+    //Tags
+        // Informações que temos através de classes documentadas na linguagem.
+        //Java Documentation.
+
+    //Tipos de Documentos
+
+    //Comentários.
+
+    public class Comentarios {
+
+        /**
+         * @param args
+         */
+        public static void main(String [] args) {
+            //Comentário em uma única linha.
+            /*OU
+             * comentário detalhado 
+             * em várias linhas
+             */
+        }
+             /**
+             * 
+             */
+            public void metodo() {
+                 /** Comentário de Documentação */
+
+                        //NÃO ESCREVA COMENTÁRIOS PARA NÃO SEGUIR OS PADRÕES JAVA DE CODIFICAÇÃO.
+  }
+
+

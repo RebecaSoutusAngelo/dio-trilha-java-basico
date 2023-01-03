@@ -1,0 +1,51 @@
+package Metodos;
+
+    //Uma classe é definida por atributos e métodos.
+    //Métodos correspondem a funçoes ou ações.
+    //Exemplo: frear, acelerar, etc.
+
+    //Critério para nomeação de métodos.
+    //Nomear como verbo
+    //Padrão camelCasel = primeira palavra minuscula e segunda e demais minuscula.
+
+        //Critério de Definição de Métodos.
+
+        //Qual a proposta principal do método?
+        //Qual o tipo de retorno esperado após executar o método?
+
+        //Caso não retorne com nenhum valor, o método será representado pela palavra-chave void.
+
+
+        //Quais parametros serão necessários para execução do método?
+        //O método possui risco de apresentar alguma excessão?
+        //Qual a visibilidade do método?
+                        //Visível a toda aplicação?
+                        //somente em mesmo pacote?
+                        //através de herança??
+                        //a nível da própria classe?
+
+    //public class CriacaoMetodos {
+
+       // public double somar (int num1, int num2){
+            //LOGICA - FINALIDADE DO MÉTODO
+           // return ... ;
+        
+        
+       // public void imprimir (String texto) {
+            //LOGICA - FINALIDADE DO MÉTODO
+            //AQUI NÃO PRECISA DE RETUN
+            //POIS NÃO TERÁ NENHUM RESULTADO
+        }
+
+      //  public double dividir (int dividendo, int divisor){}
+
+       // private void metodoPrivado (){}
+
+        //public void validar () {}
+        //este método deveria retornar algum valor
+        // no caso boolean (true or false)
+
+        //public void calcularEnviar (){}
+        //precisa representar uma única funcionalidade
+
+        //evitar excesso de parâmetros.
